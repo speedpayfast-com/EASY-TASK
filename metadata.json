@@ -1,0 +1,6 @@
+{
+  "name": "EASY TASK",
+  "description": "Earn commission through bKash and Nagad tasks, referral bonuses, and dual wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
